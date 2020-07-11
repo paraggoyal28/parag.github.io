@@ -1,2 +1,2 @@
-# parag.gihtub.io
+# parag.github.io
 A portfolio website 
